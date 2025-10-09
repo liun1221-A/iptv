@@ -159,7 +159,7 @@ HBO Family,https://ushls.ballbar.net/hbofamily/hbohd_twn/playlist-15.m3u8a?t=173
 
 浙江公共新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
-黑龙江文体,http://39.134.67.108/PLTV/88888888/224/3221225965/1.m3u8?zheild
+黑龙江文体,http://218.8.87.96:4000/udp/229.58.190.116:5000
 
 上海,#genre#
 
