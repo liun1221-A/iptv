@@ -41,26 +41,6 @@ CCTV-风云音乐,http://www.lizhinas.top:1009/rtp/239.252.219.87:5140
 CCTV-风云剧场,http://www.lizhinas.top:1009/rtp/239.252.219.89:5140
 CCTV-怀旧剧场,http://120.76.248.139/live/bfgd/4200000224.m3u8
 
-广东,#genre#
-
-广东卫视,http://120.76.248.139/live/bfgd/4200000092.m3u8
-广东卫视(备用),http://dsj.motem.top:8880/bptv/10000100000000050000000003873459.m3u8
-大湾区卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.7:11111
-深圳卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.39:11111
-广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8
-广东体育（备用）,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
-广东体育（备用2）,http://218.13.170.98:9901/tsfile/live/0019_1.m3u8
-广东珠江,http://qjrhc.jydjd.top:2911/udp/224.1.100.24:11111
-广东珠江（备用）,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
-广东珠江（备用2）,http://huangtong-com.cn:9902/tsfile/live/1010_1.m3u8
-广东新闻,http://qjrhc.jydjd.top:2911/udp/224.1.100.5:11111
-广东经济科教,http://qjrhc.jydjd.top:2911/udp/224.1.100.6:11111
-广东影视,http://113.83.248.220:4200/udp/239.77.0.217:5146
-广东少儿,http://113.83.248.220:4200/udp/239.77.0.250:5146
-嘉佳卡通,https://www.freetv.top/migu/614952364.m3u8?migutoken=5c76dcca7b39cad7812ca6b706a1a91b7649b449ee6ba64e1c9d05fcc2deb50bb285b4517f50eca48d7c47b07c79d7259dd9899433f33ebbe0ada8b841c6adf05b9e6496060011c9a70e06e47a
-岭南戏曲,http://113.83.248.220:4200/udp/239.77.0.16:5146
-清远文旅生活,http://113.83.248.220:4200/udp/239.253.43.34:5146
-
 港澳台,#genre#
 
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
@@ -108,23 +88,6 @@ TVBS,https://stream1.freetv.fun/tvb1zong-he-1.m3u8
 纬来电影,https://ushls.ballbar.net/videolandmovie/playlist-15.m3u8a?t=1735544032&token=ec3d3a4c5c1c8f401cbe3ee78829811f
 Animax(HK),https://s1.m16tv.cfd/aktv/animaxhk/AKTV.m3u8
 
-测试国际,#genre#
-
-日本NHK,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
-日本全天新闻,https://s2.m16tv.cfd/aktvjp/ntv/AKTV.m3u8
-韩国KBS,http://avd.iptviptv.site:9694/hls/1005/index.m3u8
-今日俄罗斯,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
-HBO,https://s2.m16tv.cfd/aktv2/hbo/AKTV.m3u8
-HBO Family,https://ushls.ballbar.net/hbofamily/hbohd_twn/playlist-15.m3u8a?t=1735545081&token=e0151267ec5c7a6ec494e2a587883c73
-
-体育赛事,#genre#
-
-新视觉,http://php.jdshipin.com/bestv.php?id=xsjhd/4000000
-五星体育,http://117.161.12.124/live/program/live/wxtyhd8m/8000000/mnf.m3u8
-先锋乒羽,http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/xianfeng/__op/default/__f/index.m3u8
-广州竞赛,https://tencentplay.gztv.com/live/jingsai.m3u8?txSecret=643f13e07c398292a7890d43917bac25&txTime=1920d2cfbb5
-魅力足球,http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/mlzqHD/__op/default/__f/index.m3u8
-
 卫视频道,#genre#
 
 北京卫视,http://120.76.248.139/live/bfgd/4200000083.m3u8
@@ -157,9 +120,8 @@ HBO Family,https://ushls.ballbar.net/hbofamily/hbohd_twn/playlist-15.m3u8a?t=173
 
 地方频道,#genre#
 
-浙江公共新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
-浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 黑龙江文体,http://218.8.87.96:4000/udp/229.58.190.116:5000
+黑龙江文体,https://idclive.hljtv.com:4430/live/hljwy_hd.m3u8
 
 上海,#genre#
 
