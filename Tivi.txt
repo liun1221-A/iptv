@@ -120,7 +120,6 @@ Animax(HK),https://s1.m16tv.cfd/aktv/animaxhk/AKTV.m3u8
 
 地方频道,#genre#
 
-黑龙江文体,http://218.8.87.96:4000/udp/229.58.190.116:5000
 黑龙江文体,https://idclive.hljtv.com:4430/live/hljwy_hd.m3u8
 
 上海,#genre#
